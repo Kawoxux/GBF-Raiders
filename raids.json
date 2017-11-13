@@ -619,10 +619,9 @@
 },
 {
 	"english": "Lvl 75 Vulcanrio",
-	"japanese": "Lv75 ヴァルカンライオ",
+  	"japanese": "Lv75 ヴァルカンライオ",
 	"room": "lvl75vulcanrio",
-	"image": "/assets/raids/BattleRaid_Violet_Violence_Very_Hard.png"
-},
+  	"image": "/assets/raids/BattleRaid_Volcanrio_ExtremePlus.png"
 {
 	"english": "Lvl 50 Sharom",
 	"japanese": "Lv50 シャローム",
