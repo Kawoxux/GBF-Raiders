@@ -636,6 +636,12 @@
   	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
 },
 {
+	"english": "Lvl 100 Xeno Diablo",
+  	"japanese": "Lv100 ゼノ・ディアボロス",
+	"room": "lvl100xenodiablo",
+  	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
+},
+{
 	"english": "Lvl 50 Sharom",
 	"japanese": "Lv50 シャローム",
 	"room": "lvl50sharom",
