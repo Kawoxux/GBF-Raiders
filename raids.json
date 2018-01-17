@@ -48,6 +48,12 @@
 	"image": "/assets/raids/BattleRaid_Macula_Marius_Impossible.png"
 },
 {
+	"japanese": "Lv75 エメラルドホーン",
+	"english": "Lvl 75 Viridian Horn",
+	"room": "lvl75viridianhorn",
+	"image": "/assets/raids/BattleRaid_Twin_Elements.png"
+},
+{
 	"japanese": "Lv100 フラム＝グラス",
 	"english": "Lvl 100 Twin Elements",
 	"room": "lvl100twinelements",
