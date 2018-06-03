@@ -648,6 +648,42 @@
   	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
 },
 {
+	"english": "Lvl 120 Shiva",
+  	"japanese": "Lv120 シヴァ",
+	"room": "lvl120shiva",
+  	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
+},
+{
+	"english": "Lvl 120 Europa",
+  	"japanese": "Lv120 エウロペ",
+	"room": "lvl120europa",
+  	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
+},
+{
+	"english": "Lvl 120 Godsworn Alexiel",
+  	"japanese": "Lv120 ゴッドガード・ブローディア",
+	"room": "lvl120godswornalexiel",
+  	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
+},
+{
+	"english": "Lvl 120 Grimnir",
+  	"japanese": "Lv120 グリームニル",
+	"room": "lvl120grimnir",
+  	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
+},
+{
+	"english": "Lvl 120 Metatron",
+  	"japanese": "Lv120 メタトロン",
+	"room": "lvl120metatron",
+  	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
+},
+{
+	"english": "Lvl 120 Avatar",
+  	"japanese": "Lv120 アバター",
+	"room": "lvl120avatar,
+  	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
+},
+{
 	"english": "Lvl 50 Sharom",
 	"japanese": "Lv50 シャローム",
 	"room": "lvl50sharom",
