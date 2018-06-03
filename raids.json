@@ -210,34 +210,16 @@
 	"image": "/assets/raids/Xeno_Vohu_Manah_Raid.jpg"
 },
 {
-	"english": "Lvl 20 Griffin",
-	"japanese": "Lv20 グリフォン",
-	"room": "lvl20griffin",
-	"image": "/assets/raids/BattleRaid_Griffin_(Normal).jpg"
-},
-{
 	"english": "Lvl 30 Griffin",
 	"japanese": "Lv30 グリフォン",
 	"room": "lvl30griffin",
 	"image": "/assets/raids/BattleRaid_Griffin_(Hard).jpg"
 },
 {
-	"english": "Lvl 20 Zarchnal Flame",
-	"japanese": "Lv20 ザリチュナルフレイム",
-	"room": "lvl20zarchnal",
-	"image": "/assets/raids/BattleRaid_Zarchnal_Flame_Normal.jpg"
-},
-{
 	"english": "Lvl 30 Zarchnal Flame",
 	"japanese": "Lv30 ザリチュナルフレイム",
 	"room": "lvl30zarchnal",
 	"image": "/assets/raids/BattleRaid_Zarchnal_Flame_Hard.jpg"
-},
-{
-	"english": "Lvl 20 Imperial Guard",
-	"japanese": "Lv20 インペリアルガード",
-	"room": "lvl20imperial",
-	"image": "/assets/raids/BattleRaid_Imperial_Guard_Normal.jpg"
 },
 {
 	"english": "Lvl 30 Imperial Guard",
