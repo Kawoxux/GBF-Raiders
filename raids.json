@@ -642,6 +642,12 @@
   	"image": "/assets/raids/BattleRaid_Violet_Violence_Extreme.png"
 },
 {
+	"english": "Lvl 120 Avatar",
+  	"japanese": "Lv120 アバター",
+	"room": "lvl120avatar,
+  	"image": "/assets/raids/Proto_Bahamut_Impossible.jpg"
+},
+{
 	"english": "Lvl 120 Godsworn Alexiel",
   	"japanese": "Lv120 ゴッドガード・ブローディア",
 	"room": "lvl120godswornalexiel",
